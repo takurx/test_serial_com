@@ -1,0 +1,10 @@
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\bin\Debug\test_serial_com.exe.config
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\bin\Debug\test_serial_com.exe
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\bin\Debug\test_serial_com.pdb
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.csprojAssemblyReference.cache
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.Form1.resources
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.Properties.Resources.resources
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.csproj.GenerateResource.cache
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.csproj.CoreCompileInputs.cache
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.exe
+C:\Users\0831\source\repos\test_serial_com\test_serial_com\obj\Debug\test_serial_com.pdb
