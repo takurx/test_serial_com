@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * ref 1. https://www.rt-shop.jp/blog/archives/532
+ * ref 2. https://qiita.com/mag2/items/d15bc3c9d66ce0c8f6b1
+ * ref 3. https://dobon.net/vb/dotnet/form/msgbox.html
+ * ref 4. http://d.hatena.ne.jp/mideo09/20111201/1322741186
+ * ref 5. http://www.woodensoldier.info/computer/csharptips/9.htm
+ * ref 6. http://www.atmarkit.co.jp/fdotnet/dotnettips/899charstring/charstring.html
+ * ref 7. https://www.ipentec.com/document/csharp-bytearray-to-string
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
